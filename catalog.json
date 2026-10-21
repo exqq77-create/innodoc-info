@@ -2046,7 +2046,13 @@
    "body_chars": 2779,
    "sha256_16": "687b359ca4bfffac",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "haeundae-inmode-thread-06",
+     "date": "2026-10-22",
+     "note": "리프팅 장비(초음파/고주파) 구분과 상담 시 장비 제안 이유 확인 질문 각도 사용. 주소·진료시간·전화 등은 쓰지 않음. 분량 90% 기준(2,500자 상한) 충족"
+    }
+   ]
   },
   {
    "id": "160",
@@ -2190,7 +2196,13 @@
    "body_chars": 2191,
    "sha256_16": "abf3cb3b998b5a0b",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "haeundae-skinbooster-06",
+     "date": "2026-10-22",
+     "note": "쥬베룩(진피층)과 쥬베룩 볼륨(피하층)의 주입 층·목적 구분 각도 사용. 원장 칼럼 1인칭·장점 단정 표현 제거"
+    }
+   ]
   },
   {
    "id": "172",
