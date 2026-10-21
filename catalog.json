@@ -924,7 +924,13 @@
    "body_chars": 1483,
    "sha256_16": "c3b1067c62af549e",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "haeundae-skin-disease-05",
+     "date": "2026-10-22",
+     "note": "대상포진 후 남는 통증·신경통 점검 각도(원문 원장칼럼의 대상포진 주제만 참고, 원장 이름·1인칭 제거, 72시간 등 기존 글 겹침 회피)"
+    }
+   ]
   },
   {
    "id": "075",
@@ -1164,7 +1170,13 @@
    "body_chars": 1332,
    "sha256_16": "9f6bed4fab515b8f",
    "exact_dup_of": null,
-   "used": []
+   "used": [
+    {
+     "slug": "haeundae-hair-removal-05",
+     "date": "2026-10-22",
+     "note": "수염 면도 자극·모낭염 반복 시 제모 상담 전 확인 각도(원문의 수염 제모 원리 일반 정보 참고, 횟수 단정 미사용)"
+    }
+   ]
   },
   {
    "id": "094",
